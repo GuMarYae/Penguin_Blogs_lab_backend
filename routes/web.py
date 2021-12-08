@@ -13,3 +13,9 @@ ROUTES = [
         Delete("/@id", "BlogController@destroy").name("destroy")
     ], prefix="/blogs", name="blogs")
 ]
+
+
+
+
+
+
